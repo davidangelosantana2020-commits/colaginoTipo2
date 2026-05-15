@@ -1,0 +1,6 @@
+{
+  "name": "Colágeno Tipo II PRO Landing Page",
+  "description": "Premium landing page for Colágeno Tipo II PRO - Maximum Alívio supplement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
